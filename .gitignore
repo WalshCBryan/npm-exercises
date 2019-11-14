@@ -1,0 +1,11 @@
+.idea/*
+
+*.iml
+
+keys.js
+
+public/main.js
+
+*.map
+
+node_modules
